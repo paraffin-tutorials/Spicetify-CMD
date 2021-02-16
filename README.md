@@ -19,6 +19,8 @@
 `spicetify -c`
 <br>
 `spicetify update`
+<br>
+`spicetify restore`
  <br><br><br>
 🖼 Themes:
 <br>
