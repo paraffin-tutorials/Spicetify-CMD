@@ -21,4 +21,5 @@
 `spicetify update`
  <br><br><br>
 🖼 Themes:
+<br>
 https://github.com/morpheusthewhite/spicetify-themes
